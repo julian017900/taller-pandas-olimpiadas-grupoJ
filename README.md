@@ -1,4 +1,4 @@
-# Proyecto: 120 years of Olympic history
+# Taller Pandas: 120 Anos de Historia Olimpica (1896 - 2016)
 Analisis exploratorio con Pandas para Programacion II.
 ## Integrantes y Roles
 - Julian Andres Velandia Cortes (Lider de Datos, Repositorio y Reporte)
